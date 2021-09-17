@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+touch dict
+touch comments
+touch quotes
